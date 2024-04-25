@@ -5,6 +5,7 @@
 /public/tema/aparelhosIp
 /public/tema/assinaturas
 /public/tema/imgPerfil
+/database/seeders
 /storage/*.key
 /vendor
 .env
