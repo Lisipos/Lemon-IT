@@ -1,6 +1,10 @@
 /node_modules
 /public/hot
 /public/storage
+/public/tema/allInOne
+/public/tema/aparelhosIp
+/public/tema/assinaturas
+/public/tema/imgPerfil
 /storage/*.key
 /vendor
 .env
